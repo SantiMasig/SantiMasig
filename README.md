@@ -8,7 +8,6 @@ I have been learning to code since 2021. I learned C language in college, but re
 
 * 🌍  I'm based in Buenos Aires, Argentina.
 * ✉️  You can contact me at [santimasig@outlook.com.ar](mailto:santimasig@outlook.com.ar)
-* 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
