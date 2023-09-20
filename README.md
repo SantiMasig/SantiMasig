@@ -2,13 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 ------------------------
+Estudiante Lic en Informatica
 
-I have been learning to code since 2021. I learned C language in college, but really found a passion for web development. Computer engineering student.
-
-* 🌍  I'm based in Buenos Aires, Argentina.
-* ✉️  You can contact me at [santimasig@outlook.com.ar](mailto:santimasig@outlook.com.ar)
-* 🤝  I'm open to collaborating on Interesting projects
-
+* 🌍  Buenos Aires, Argentina.
+* ✉️  [santimasig@outlook.com.ar](mailto:santimasig@outlook.com.ar)
 ### Skills
 
 
