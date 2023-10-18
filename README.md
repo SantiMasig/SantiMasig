@@ -1,6 +1,6 @@
 <h3 align="center">Estudiante Informatica</h3>
 
-- 🌱 Aprendiendo **Java y Swift**
+- 🌱 Aprendiendo **Java**
 
 - 👨‍💻 Todos mis proyectos en [https://github.com/SantiMasig](https://github.com/SantiMasig)
 
