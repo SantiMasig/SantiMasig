@@ -1,4 +1,3 @@
-- 🌱 Aprendiendo **Java**
 - Estudiante Lic en Informatica
 
 - 👨‍💻 Todos mis proyectos en [https://github.com/SantiMasig](https://github.com/SantiMasig)
