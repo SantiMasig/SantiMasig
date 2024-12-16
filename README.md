@@ -6,7 +6,7 @@
 
 <h3 align="left">Conecta:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-mansilla-86262124b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-mansilla-86262124b/" height="30" width="40" /></a>
+<a href="https://youtu.be/z5BUKJ3T5Oc?list=PLZfPRPm6eup5FFhGX15bht4Nf-p77py67&t=3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-mansilla-86262124b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
