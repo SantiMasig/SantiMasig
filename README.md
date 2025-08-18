@@ -1,13 +1,42 @@
-- Estudiante Lic en Informatica
+# 👋 Hola, soy Santiago Mansilla  
 
-- 👨‍💻 Todos mis proyectos en [https://github.com/SantiMasig](https://github.com/SantiMasig)
+💻 Técnico IT | Estudiante de Lic. en Informática | Apasionado por Cloud & Infraestructura  
 
-- 📫 Contacto: **santimasig@outlook.com.ar**
+Actualmente trabajo como **Analista en Murc**, especializado en administración de servidores, soluciones gestionadas, monitoreo de infraestructura y soporte a clientes corporativos. Mi objetivo es crecer hacia roles de **Cloud Admin / SysAdmin en entornos Azure**.
 
-<h3 align="left">Conecta:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/santiago-mansilla-86262124b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-mansilla-86262124b/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🚀 Tecnologías & Herramientas  
+
+- **Sistemas & Virtualización:** Windows Server, Active Directory, VMware, Hyper-V  
+- **Monitoreo & Gestión:** WhatsUp Gold, Netdata  
+- **Backup & Seguridad:** MSP360 (CloudBerry), Cortex XDR, Kaspersky  
+- **Redes & Soporte:** Cisco (routers, switches, VPN), Ubiquiti, Omada, cableado estructurado  
+- **SaaS & Cloud:** Google Workspace (administración de usuarios, seguridad, políticas)  
+- **Soporte & Gestión:** FreshDesk, AnyDesk, TeamViewer  
+
+---
+
+## 📚 Formación & Certificaciones  
+
+🎓 **Licenciatura en Informática** – Univ. del Oeste (2022 - Presente)  
+
+🔑 **Certificaciones y cursos:**  
+- Small and Medium Business Engineer / Network Technician (Cisco, 2025)  
+- Linux SysAdmin (Educación IT, 2025)  
+- WhatsUp Gold (Admin, Topology Maps, Dashboards & Reports) – Progress (2025)  
+- Scrum Fundamentos, Cultura DevOps, Introducción a Redes – Educación IT (2024)  
+
+📌 Actualmente preparándome para la certificación **Microsoft Azure AZ-900**  
+
+---
+
+## 🎯 Objetivo  
+
+Impulsar mi carrera hacia el **Cloud Computing (Azure, O365, Infraestructura híbrida)**, integrando mis conocimientos en **infraestructura, seguridad y monitoreo** con certificaciones y prácticas de DevOps.  
+
+---
+
+📫 **Contacto:**  
+- 📧 santimasig@outlook.com.ar  
+
