@@ -1,4 +1,4 @@
-IT Infrastructure & Cloud Enthusiast  
+IT Infrastructure
 Infraestructura y Seguridad
 
 🔹 Tecnologías:
