@@ -1,4 +1,3 @@
-IT Infrastructure
 Infraestructura y Seguridad
 
 🔹 Tecnologías:
